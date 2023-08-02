@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/yash-devop/netflix-clone/assets/112558970/8a5d9506-bbd3-4c1b-9b8e-7ad16c08f1ea)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
